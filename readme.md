@@ -62,24 +62,8 @@ This usually requires a junction table.
 
 ---
 
-# ERM Diagram: People That Own Pets
-
-People
-------
-person_id (PK)
-name
-email
-phone_number
+# ERM Diagram: People That Own Pets 
+See png
 
 
-Pets
-------
-pet_id (PK)
-pet_name
-breed
-age
-person_id (FK)
-
-
-Relationship:
-One Person → Many Pets
+ts
